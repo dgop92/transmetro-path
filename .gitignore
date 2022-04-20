@@ -1,0 +1,7 @@
+__pycache__/
+.env
+.venv
+logging.conf
+.pytest_cache
+
+temp.py
